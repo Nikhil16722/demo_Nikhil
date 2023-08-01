@@ -1,5 +1,5 @@
 # Drum-kit
 
-If you love to play drum....
+If you want to play with music....
 bang on... Click here..
 https://shagunmishra.github.io/Drum-kit/
